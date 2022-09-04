@@ -11,7 +11,7 @@
 
 # 信息配置
 # 和风天气 apikey
-"weather_key": "48922f9a47b945b7b5d147f7ed3cfe3d",
+"weather_key": "71101d3a4cb148028e1e613be1fa85ed",
 # 天行数据apikey
 “tian_api”：“a639d0169699dc07399e6f33b3b54270”，
 # 所在地区，更新空气，城市，区，县，同时支持国外城市，伦敦（城市可能获取不到 pm2.5，质量，今日建议等数据）
